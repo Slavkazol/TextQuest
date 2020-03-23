@@ -1,0 +1,24 @@
+Start
+You are a Magos of Adeptus Mechanicus. Your fleet has track a signal from an ancient ruins, that might belong to the era of dark technology. Now you path leads you to the planet Maligos V. What wil you find there, death or glory? We'll see...
+
+Your expedition has landed on Maligos V. Servitors are creating a base, troops making a defence. All is working as expected. After several hours your assistant comes to you and asks:"Greetings my lord, we are ready to start, whats your orders?"
+
+Choises:
+State 1
+1.Send investigation drones to get more data about the planet
+2. Gather your troops and move to the signal
+
+
+State 1.1
+You have send drones and after 24 hours they came back. From drones hard discs you get the new information about the planet: Planet has an agressive forms of life that can make problembs to your expedition. 
+Choises:
+1.Send your troops in front of your expedition and kill all enemies that they can see.
+2. Investigate life form behaviour
+
+State 1.2.
+Your troops was attacked by unknown agressive form of live, you have lost half of your troops and suplies in a combat. But you are stil alive and can go on. Finally after some time you get to the point.
+1. Start digging to the signal source
+2. Create a camp and prepare a defense
+
+
+
