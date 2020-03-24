@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78853e76eff76bd4ba1741d05aa5bc0b, type: 3}
+  m_Name: State1
+  m_EditorClassIdentifier: 
+  storyText: "You have send drones and after 24 hours they came back. From drones
+    hard discs you get the new information about the planet: Planet has an agressive
+    forms of life that can make problembs to your expedition. \r\n\n1.Send your troops
+    in front of your expedition and kill all enemies that they can see.\r\n2. Investigate
+    life form behaviour"
+  nextStates:
+  - {fileID: 11400000, guid: 0823911d9e91a3747957d39ff675ca2d, type: 2}
+  - {fileID: 11400000, guid: 90fca2f4f1cee1249aa88c085972f65e, type: 2}
+  health: 0

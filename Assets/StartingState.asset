@@ -12,11 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78853e76eff76bd4ba1741d05aa5bc0b, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: "You are a Magos of Adeptus Mechanicus. Your fleet has track a signal
-    from an ancient ruins, that might belong to the era of dark technology. Now you
-    path leads you to the planet Maligos V. What wil you find there, death or glory?
-    We'll see...\r\n\r\nYour expedition has landed on Maligos V. Servitors are creating
-    a base, troops making a defence. All is working as expected. After several hours
-    your assistant comes to you and asks:\"Greetings my lord, we are ready to start,
-    whats your orders?\"\r\n\r\nChoises:\r\nState 1\r\n1.Send investigation drones
-    to get more data about the planet\r\n2. Gather your troops and move to the signal"
+  storyText: "Your expedition has landed on Maligos V. Servitors are creating a base,
+    troops making a defence. All is working as expected. After several hours your
+    assistant comes to you and asks:\"Greetings my lord, we are ready to start, whats
+    your orders?\"\r\n\n1.Send investigation drones to get more data about the planet\r\n2.
+    Gather your troops and move to the signal"
+  nextStates:
+  - {fileID: 11400000, guid: 7c8216c2b55cf6c4dba31045f8fc7215, type: 2}
+  - {fileID: 11400000, guid: 0823911d9e91a3747957d39ff675ca2d, type: 2}
+  health: -1

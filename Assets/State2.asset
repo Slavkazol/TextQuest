@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78853e76eff76bd4ba1741d05aa5bc0b, type: 3}
+  m_Name: State2
+  m_EditorClassIdentifier: 
+  storyText: "Your troops was attacked by unknown agressive form of live, you have
+    lost half of your troops and suplies in a combat. But you are stil alive and can
+    go on. Finally after some time you get to the point.\r\n\n1. Start digging to
+    the signal source\r\n2. Create a camp and prepare a defense\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 0a6e2bd7d73e6c348b0e46b4ca48a531, type: 2}
+  - {fileID: 11400000, guid: 7c8216c2b55cf6c4dba31045f8fc7215, type: 2}
+  health: 0
