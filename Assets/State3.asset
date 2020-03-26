@@ -21,4 +21,6 @@ MonoBehaviour:
   nextStates:
   - {fileID: 11400000, guid: 7c8216c2b55cf6c4dba31045f8fc7215, type: 2}
   - {fileID: 11400000, guid: 0823911d9e91a3747957d39ff675ca2d, type: 2}
-  health: 0
+  item: Stabilo Power
+  itemRequiered: Bow
+  health: 1

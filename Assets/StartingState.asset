@@ -16,8 +16,8 @@ MonoBehaviour:
     troops making a defence. All is working as expected. After several hours your
     assistant comes to you and asks:\"Greetings my lord, we are ready to start, whats
     your orders?\"\r\n\n1.Send investigation drones to get more data about the planet\r\n2.
-    Gather your troops and move to the signal"
+    Gather your troops and move to the signal\n33333333\nsddsd\ndcvvgfd\ndvdvd"
   nextStates:
   - {fileID: 11400000, guid: 7c8216c2b55cf6c4dba31045f8fc7215, type: 2}
   - {fileID: 11400000, guid: 0823911d9e91a3747957d39ff675ca2d, type: 2}
-  health: -1
+  health: 0

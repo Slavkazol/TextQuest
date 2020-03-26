@@ -16,8 +16,11 @@ MonoBehaviour:
     hard discs you get the new information about the planet: Planet has an agressive
     forms of life that can make problembs to your expedition. \r\n\n1.Send your troops
     in front of your expedition and kill all enemies that they can see.\r\n2. Investigate
-    life form behaviour"
+    life form behaviour\n3. Do something (Bow Requiered)"
   nextStates:
   - {fileID: 11400000, guid: 0823911d9e91a3747957d39ff675ca2d, type: 2}
   - {fileID: 11400000, guid: 90fca2f4f1cee1249aa88c085972f65e, type: 2}
-  health: 0
+  - {fileID: 11400000, guid: 90fca2f4f1cee1249aa88c085972f65e, type: 2}
+  item: Bow
+  itemRequiered: 
+  health: 1
